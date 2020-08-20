@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github Trends</string>
+    <string name="app_title">Trends %s</string>
+    <string name="authorName">Author: %s</string>
+    <string name="menu_title_daily">Daily</string>
+    <string name="menu_title_weekly">Weekly</string>
+    <string name="menu_title_monthly">Monthly</string>
+</resources>
